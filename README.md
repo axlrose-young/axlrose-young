@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Arjun👋
+I'm a student exploring Linux internals and systems along with some coding by experimenting and documenting what works or breaks and how I handle it. 
 
-<!--
-**axlrose-young/axlrose-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Current focus
+- Linux boot process (GRUB, Kernels, systemd)
+- Building small Python tools and projects
 
-Here are some ideas to get you started:
+# 🐍 Python experience 
+- Basic python projects and utilities
+- Flask based web app
+- Automation scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Tools
+- Arch Linux
+- Python
+- Bash (basic usage, system configuration)
+
+# 🎯 Path
+- Building foundations in systems understanding
+- Exploring robotics and embedded systems
+
+# 📫 How to reach me
+- Email: axlroseyoung12@gmail.com
+- Open an issue on any repo
