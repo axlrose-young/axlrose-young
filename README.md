@@ -1,24 +1,6 @@
-## Hi, I'm Arjun👋
-I'm a student exploring Linux internals and systems along with some coding by experimenting and documenting what works or breaks and how I handle it. 
+## I'm Arjun Krishna
 
-# 🌱 Current focus
-- Linux modules and systemd 
-- Building small Python tools and projects
+C • Linux • Embedded Systems
 
-# 🐍 Python experience 
-- Basic python projects and utilities
-- Flask based web app
-- Automation scripts
-
-# 🛠️ Tools
-- Arch Linux
-- Python
-- Bash (basic usage, system configuration)
-
-# 🎯 Path
-- Building foundations in systems understanding
-- Exploring robotics and embedded systems
-
-# 📫 How to reach me
-- Email: axlroseyoung12@gmail.com
-- Open an issue on any repo
+Interested in systems programming.
+Trying to earn the right to read kernel code.
